@@ -10,6 +10,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Example main");
 		System.out.println("developemt branch new changes");
+		System.out.println("new");
 
 	}
 
